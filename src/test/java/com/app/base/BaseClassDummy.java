@@ -5,6 +5,8 @@ public class BaseClassDummy {
 		System.out.println("Azar");
 		System.out.println("Azar");
 		System.out.println("Azar1");
+		System.out.println("Azar1");
+		System.out.println("Azar1");
 	}
 
 }
