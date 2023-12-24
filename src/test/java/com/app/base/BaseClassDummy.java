@@ -6,6 +6,7 @@ public class BaseClassDummy {
 		System.out.println("Azar");
 		System.out.println("bilala");
 		System.out.println("amsar");
+		System.out.println("papu Janntha");
 	}
 
 }
